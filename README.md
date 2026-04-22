@@ -15,19 +15,6 @@
 
 ---
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Technology Stack](#technology-stack)
-- [Key Features](#key-features)
-- [Documentation](#documentation)
-- [Installation](#installation)
-- [Building from Source](#building-from-source)
-- [Contributing](#contributing)
-- [Support the Project](#support-the-project)
-- [Acknowledgments](#acknowledgments)
-- [License](#license)
-
 ---
 
 ## Overview
